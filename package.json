@@ -1,0 +1,23 @@
+{
+  "name": "coursera-jh-wd",
+  "version": "1.0.0",
+  "description": "Johns Hopkins: Web Development",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --directory --files '*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhvshrma/coursera-jh-wd.git"
+  },
+  "author": "\"Vaibhav Sharma\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhvshrma/coursera-jh-wd/issues"
+  },
+  "homepage": "https://github.com/vaibhvshrma/coursera-jh-wd#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
