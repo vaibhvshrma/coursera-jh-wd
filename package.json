@@ -2,10 +2,11 @@
   "name": "coursera-jh-wd",
   "version": "1.0.0",
   "description": "Johns Hopkins: Web Development",
-  "main": ".",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "browser-sync start --server --directory --files '*'"
+    "start": "npm run lite",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
