@@ -1,0 +1,32 @@
+.navbar-default .navbar-brand {
+    color: #000;
+    font-weight: bold;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.row {
+    width: 100%;
+    margin: 10px;
+}
+
+#header-nav {
+    background-color: #555;
+}
+
+#nav-list {
+    background-color: #ccc;
+}
+
+#nav-list a {
+    text-align: center;
+    color: black;
+}
+
+#really-tall {
+    min-height: 1000px;
+    background-color: #ccc;
+    border: black 1px solid;
+}
